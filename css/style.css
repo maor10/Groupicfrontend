@@ -1,0 +1,12 @@
+.resize{
+	position: absolute;
+	z-index: 200;
+}
+
+.blackout{
+	position: absolute;
+	z-index: 100;
+	top: 0;
+	left: 0;
+	opacity: 0
+}
